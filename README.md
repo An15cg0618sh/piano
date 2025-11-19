@@ -2,6 +2,12 @@
 
 > Transform your keyboard into a musical instrument with this interactive Python piano!
 
+🎬 See it in Action
+<p align="center">
+  <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/d5845838-47d0-4843-a73d-5abc7fe7167f" />
+
+Press A-S-D-F-G-H-J-K on your keyboard to play beautiful piano notes!
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-green.svg)
 
